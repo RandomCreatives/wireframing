@@ -122,7 +122,7 @@ A Figma-based wireframe showing a styled login form with icons, validation messa
 
 ## 🔍 What Type of Wireframe Is This?
 
-**Wireframe Example: [Insert Figma Link or Screenshot Here]**
+**Wireframe Example: [[Insert Figma Link or Screenshot Here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2)]**
 
 This is a **High-Fidelity Wireframe**, as it:
 - Displays polished visual elements such as colors, icons, and typography
